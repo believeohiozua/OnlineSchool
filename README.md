@@ -50,7 +50,7 @@ docker-compose exec api python project/manage.py test
 
 The MIT License - Copyright (c) 2020 - Present, Decagon Institute. https://decagonhq.com/
 
-## Contributors
+<!-- ## Contributors
 
 <table>
     <tr>
@@ -149,6 +149,6 @@ The MIT License - Copyright (c) 2020 - Present, Decagon Institute. https://decag
             </div>
         </td>
       </tr>
-</table>
+</table> -->
 # devsprime
 # devsprime
